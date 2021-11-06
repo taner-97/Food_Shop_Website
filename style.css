@@ -81,3 +81,15 @@ h1{
     background-color: rgb(180, 15, 65);
     transition: 0.5s;
 }
+
+.apple{
+    background: url(./img/jakub-dziubak-XtUd5SiX464-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+}
+
+.apple h1{
+    font-family: 'Lobster', cursive;
+}
